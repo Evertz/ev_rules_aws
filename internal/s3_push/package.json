@@ -1,0 +1,8 @@
+{
+  "name": "tools_evertz_rules_aws_s3",
+  "version": "0.0.0-PLACEHOLDER",
+  "private": true,
+  "dependencies": {
+    "s3-client": "4.4.2"
+  }
+}
