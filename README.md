@@ -1,5 +1,5 @@
 # ev_rules_aws
-
+ 
 A set of [bazel](https://bazel.build) rules that provide macros and rules for interacting
 with Amazon web services.
 
